@@ -1,0 +1,16 @@
+{
+    "name": "99umbi/phpstormproj",
+    "description": "Brief description of this project.",
+    "autoload": {
+        "psr-4": {
+            "99umbi\\Phpstormproj\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Umberto Loria",
+            "email": "umberto.loria@gmail.com"
+        }
+    ],
+    "require": {}
+}
