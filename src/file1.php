@@ -73,4 +73,42 @@ function bar(): void{ return; }
 
 
 
+
+class Foo2{var $x;var $y; function foo () { }} class
+Bar{
+    const X = 1; const Y = 2;var $a;var $b;
+    function bar ( ) {
+        $a = "a";
+
+
+        $b = "b";
+    }
+
+    function bar_2() { return this::$a . this::$b; }
+
+function bar_3()
+{
+    function function_declaration() {
+return 5;}
+    echo "null"; return null;
+}}
+
+
+register_function('function_declaration');
+
+
+class Baz{
+    public float $prop; function foo (  bool$one=  null ,int$two =0 ,string$three="String" ) :int{
+if(true ){$x= array(
+              0=>"zero",
+      123  =>"one two three",
+        25=> "two five"
+            );
+        } elseif (null) {echo null;}
+elseif (false) {return 0; }
+ return 1;
+   }}
+
+
     ?>
+
