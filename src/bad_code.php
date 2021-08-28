@@ -59,7 +59,7 @@ class Foo
         } elseif ($x > 20) { $z = $x << 1; } else {
  $z = $x | 2;      }
    $j = (int)$z; switch( $j){ case 0:
-                        $s1 = 'zero'; break;
+                        $s1 = 'zero';
                     case 2: $s1 = 'two'; break;
                 default:
       $s1 = 'other';

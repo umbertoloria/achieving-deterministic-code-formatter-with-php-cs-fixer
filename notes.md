@@ -1,0 +1,3 @@
+
+* yoda
+* space after cast
