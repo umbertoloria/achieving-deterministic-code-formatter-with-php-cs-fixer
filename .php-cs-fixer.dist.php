@@ -2,7 +2,7 @@
 
 return (new PhpCsFixer\Config())
     ->setRules([
-        '@PSR12' => true,
+        '@PhpCsFixer' => true,
     ])
     ->setFinder(
         PhpCsFixer\Finder::create()
