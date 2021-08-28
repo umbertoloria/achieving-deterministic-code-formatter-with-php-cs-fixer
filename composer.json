@@ -12,5 +12,7 @@
             "email": "umberto.loria@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "friendsofphp/php-cs-fixer": "^3.0"
+    }
 }
