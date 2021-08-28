@@ -27,4 +27,4 @@ class file1{
     public function aoic() { return 4; }
 } function x ( ) {
     echo  '2' ;; } function sum(int$a,float$b):int
-{return$a + $b; }echo sum(1, 2); echo "\n"; $a = 5; if (5 === $a) { echo 'yea'; }
+{return$a + $b; }echo sum(1, 2); echo "\n"; $a = 5; if (5 === $a) { echo 'yea'; } ?>
