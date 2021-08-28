@@ -17,16 +17,20 @@ $coseACaso = array(
     ],
     8 => new stdClass()
 );
-class A {
-    public function ciao() {
+class A
+{
+    public function ciao()
+    {
         echo 'ciao';
         return 1;
     }
-    public function aoic() {
+    public function aoic()
+    {
         $a = 4;
         return$a;
     }
 }
-function x() {
+function x()
+{
     echo '2';
 }
