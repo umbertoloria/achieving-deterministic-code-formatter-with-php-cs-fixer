@@ -34,3 +34,11 @@ function x()
 {
     echo '2';
 }
+
+function sum(int $a, float $b): int
+{
+    return $a + $b;
+}
+
+echo sum(1.4, '2');
+echo "\n";
